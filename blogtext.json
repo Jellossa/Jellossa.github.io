@@ -1,0 +1,20 @@
+{
+ "posts":[
+
+	{
+	"title": "A blog about time thinking pickup lines",
+	"pizzacat": "origin-post",
+	"content": "I thought about writing this website as a fun way to learn programming with nextjs. I wasn't entirely sure this would work though" 
+},
+{	"title": "how writing pickup lines is like poetry",
+	"pizzacat": "pickup-poetry",
+	"content": "writing this stuff is fun because you have to creatively use the language for a purpose. It's like a tool for focusing" 
+
+},
+{	"title": "How writing for nextjs is kind of diffuclt",
+	"pizzacat": "nextjs-experience",
+	"content": "Finding a beginning tutorial for nextjs is hard because it's hard to find a simple example where you can get started" 
+
+	}
+	]
+}
